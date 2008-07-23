@@ -1,5 +1,5 @@
 #!/bin/env ruby
 
 
-puts "hi"
+puts "hi, again"
 

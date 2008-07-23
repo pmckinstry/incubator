@@ -1,4 +1,4 @@
-/bin/env ruby
+#!/bin/env ruby
 
-puts "bye"
+puts "bye, again"
 
