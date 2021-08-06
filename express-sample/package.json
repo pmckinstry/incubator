@@ -1,0 +1,22 @@
+{
+  "name": "express-sample",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "dev": "tsc -w & nodemon dist/index.js",
+    "start": "tsc & node dist/index.js"
+  },
+  "author": "Pete McKinstry",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "hbs": "~4.0.4",
+    "http-errors": "~1.6.3",
+    "morgan": "~1.9.1",
+    "ts-node": "^10.1.0"
+  }
+}
