@@ -18,7 +18,7 @@
   "dependencies": {
     "@types/axios": "^0.14.4",
     "@types/morgan": "^1.9.10",
-    "axios": "^1.13.0",
+    "axios": "^1.13.5",
     "express": "^5.1.0",
     "morgan": "^1.10.1",
     "ts-node": "^10.9.2"
